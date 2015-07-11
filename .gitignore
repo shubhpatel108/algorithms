@@ -1,0 +1,35 @@
+### Eclipse ###
+.metadata
+.recommenders
+.DS_Store
+bin/
+tmp/
+*.tmp
+*.bak
+*.log
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.classpath
+.project
+ 
+
+# External tool builders
+.externalToolBuilders/
+ 
+# Locally stored "Eclipse launch configurations"
+*.launch
+ 
+# CDT-specific
+.cproject
+ 
+# PDT-specific
+.buildpath
+ 
+# sbteclipse plugin 
+.target
+ 
+# TeXlipse plugin
+.texlipse
